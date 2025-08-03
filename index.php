@@ -17,6 +17,8 @@ echo $mensaje."hoy es ".date('Y-m-d');
 <body>
 
 <h2>Formulario</h2>
+
+jajajaja
     
 </body>
 </html>
