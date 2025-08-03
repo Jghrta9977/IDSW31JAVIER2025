@@ -34,7 +34,9 @@ if(isset($_POST['logear'])){
 <h2>Formulario</h2>
 
 <form  method="POST">
-
+    <br>
+    <h2>LOGIN</h2>
+<br>
 <label for="nombre">nombre</label>
 <br>
 <input type="text" name="nombre" id="nombre">
